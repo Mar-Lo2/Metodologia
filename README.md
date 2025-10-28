@@ -132,6 +132,4 @@ En base a las metodologías vistas de los frameworks (NIST,PTES), deberéis hace
 			- Elastic
 
 
-<img width="1156" height="495" alt="image" src="https://github.com/user-attachments/assets/dab74728-f4fc-4444-91bb-4ac0d61f7abb" />
-
 MarLo
